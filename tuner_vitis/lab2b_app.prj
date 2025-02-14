@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="lab2b_app" location="D:/vitisworkspace2lab2b/lab2b_app" platform="D:/vitisworkspace2lab2b/lab2bplat/export/lab2bplat/lab2bplat.xpfm" platformUID="xilinx:::0.0(custom)" systemProject="lab2b_app_system" sysConfig="lab2bplat" runtime="C/C++" cpu="standalone_domain" cpuInstance="microblaze_0" os="standalone" mssSignature="e4f54960f7f27c4fd313e45b10a22493">
+  <configuration name="Debug" id="xilinx.gnu.mb.exe.debug.455328596">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.mb.exe.release.1327568215" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="peripheral_tests"/>
+</sdkproject:SdkProject>

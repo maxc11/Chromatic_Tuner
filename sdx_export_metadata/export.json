@@ -1,0 +1,29 @@
+{
+  "version": "2022.1",
+  "applications": [],
+  "platforms": [
+    {
+      "name": "lab2bplat"
+    }
+  ],
+  "systems": [
+    {
+      "name": "lab2b_app_system",
+      "platform": "D:/vitisworkspace2lab2b/lab2bplat/export/lab2bplat/lab2bplat.xpfm",
+      "sysConfig": "lab2bplat",
+      "buildConfig": "Debug",
+      "applications": [
+        {
+          "name": "lab2b_app",
+          "platform": "D:/vitisworkspace2lab2b/lab2bplat/export/lab2bplat/lab2bplat.xpfm",
+          "platformPath": "C:\\Users\\jgianelli\\Desktop\\lab2bplat\\export\\lab2bplat",
+          "sysConfig": "lab2bplat",
+          "domain": "standalone_domain",
+          "system": "lab2b_app_system"
+        }
+      ],
+      "platformPath": "C:\\Users\\jgianelli\\Desktop\\lab2bplat\\export\\lab2bplat"
+    }
+  ],
+  "others": []
+}
